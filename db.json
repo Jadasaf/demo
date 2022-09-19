@@ -1,14 +1,20 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "movies": [
+    { "id": 1,
+     "title": "Interstellar",
+     "image": "https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%81%D1%82%D0%B5%D0%BB%D0%BB%D0%B0%D1%80#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Interstellar_2014.jpg"
+    },
+    { "id": 2,
+     "title": "House of the dragon",
+     "image": "https://static.hbo.com/2022-06/house-of-the-dragon-ka-1920.jpg?w=1200"
+    },
+    { "id": 3,
+     "title": "Shawshank redemption",
+     "image": "https://en.wikipedia.org/wiki/The_Shawshank_Redemption#/media/File:ShawshankRedemptionMoviePoster.jpg"
+    },
+    { "id": 4,
+     "title": "Pulp fiction",
+     "image": "https://en.wikipedia.org/wiki/Pulp_Fiction#/media/File:Pulp_Fiction_(1994)_poster.jpg"
+    }
+    ]
 }
